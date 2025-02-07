@@ -1,0 +1,17 @@
+body {
+  background-color: #70ABAF;
+  color: #32292F;
+  font-family: 'Trebuchet MS', 'Century Gothic';
+}
+
+h1{
+  color: #32292F;
+  font-family: 'Recoleta Bold';
+  font-size: 50px;
+}
+
+h2, h3 {
+  color: #32292F;
+  font-family: 'Recoleta Bold';
+  font-size: 25px;
+}
